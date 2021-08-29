@@ -15,5 +15,6 @@ Connect the SCL pin to the I2C clock SCL pin on your Arduino. On an UNO & '328 b
 
 Connect the SDA pin to the I2C data SDA pin on your Arduino. On an UNO & '328 based Arduino, this is also known as A4, on a Mega it is also known as digital 20 and on a Leonardo/Micro, digital 2
 
-![6a5a-PIM-442-1-0-2-1000x667](https://user-images.githubusercontent.com/25089739/131248626-5f8794d2-abec-4f0e-aebd-445e0214c0f8.jpeg)
+![matrix](https://user-images.githubusercontent.com/25089739/131248972-e8523b3b-8469-4e9b-91ee-40e92dcedfeb.gif)
+
 
